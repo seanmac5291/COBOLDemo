@@ -75,7 +75,7 @@ You're working with a government agency modernizing their tax calculation system
 1. Use Copilot Chat: "Review this tax calculation code for accuracy and edge cases"
 2. **Key Message**: "AI assists in maintaining tax law compliance during code reviews"
 
-## Key Talking Points for CIO (David Roseberry)
+## Key Talking Points
 
 ### Business Value
 - **Knowledge Transfer**: Capture retiring COBOL developer expertise
